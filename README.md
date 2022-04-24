@@ -74,8 +74,8 @@ With the described process we were able to create a useful, efficient and respon
 **The application**
 
 ![screenshot1](./images/screenshot1.png)
-![screenshot1](./images/screenshot2.png)
-![screenshot1](./images/screenshot3.png)
+![screenshot2](./images/screenshot2.png)
+![screenshot3](./images/screenshot3.png)
 
 
 
