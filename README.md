@@ -71,6 +71,7 @@ With the described process we were able to create a useful, efficient and respon
 
 1.As a user, I can write and save notes, so that I can organize my thoughts and keep track of tasks I need to complete.
 2.As a user I can delete notes I have wirtten before, so that I can keep my notes updated.
+
 **The application**
 
 ![screenshot1](./images/screenshot1.png)
